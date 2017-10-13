@@ -1,7 +1,7 @@
 let eur;
 let usd;
 let chf;
-let htk;
+let hrk;
 
 const konvertor = function(bam) {
 	 eur = bam/1.95;
