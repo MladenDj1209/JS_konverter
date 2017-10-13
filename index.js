@@ -9,7 +9,7 @@ const konvertor = function(bam) {
 	 chf = bam*0.6;
 	 hrk = bam*3.84;
 	return {
-		eur, usd, chf
+		eur, usd, chf, hrk
 	}
 }
 
