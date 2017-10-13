@@ -1,0 +1,19 @@
+{
+  "name": "konvertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MladenDj1209/mladen-JSU.git"
+  },
+  "author": "mladen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MladenDj1209/mladen-JSU/issues"
+  },
+  "homepage": "https://github.com/MladenDj1209/mladen-JSU#readme"
+}
